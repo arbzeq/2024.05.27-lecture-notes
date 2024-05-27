@@ -1,0 +1,47 @@
+.container {
+    background-color: teal;
+    width: 250px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.flex-item {
+    background-color: hotpink;
+    width: 30px;
+    height: 30px;
+
+    
+}
+
+#id2 {
+    background-color: yellow;
+}
+
+#id3 {
+    background-color: rgb(68, 13, 194);
+    margin-top: auto;
+}
+
+/*
+#id3 {
+    background-color: red;
+}
+
+
+#id4 {
+    background-color: rgb(168, 154, 21);
+    align-self: flex-end;
+}
+
+#id5 {
+    background-color: rgb(196, 23, 109);
+}
+
+#id7 {
+    background-color: rgb(37, 12, 129);
+}
+*/
